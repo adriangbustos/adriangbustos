@@ -15,7 +15,7 @@
 # 📊 Estadísticas de Github:
 ![](https://github-readme-stats.vercel.app/api?username=adriangbustos&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=adriangbustos&theme=dark&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adriangbustos&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adriangbustos&layout=compact&cache_seconds=30)
 
 ### 🔝 Repositorio más contribuido
 ![](https://github-contributor-stats.vercel.app/api?username=adriangbustos&limit=5&theme=dark&combine_all_yearly_contributions=true)
