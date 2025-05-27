@@ -1,4 +1,3 @@
-# 💫 Sobre mí:
 # 👋 ¡Hola! Soy Adrián Garrido Bustos
 
 🎓 Soy un estudiante apasionado por la **programación**, las **matemáticas** y los **desafíos intelectuales**.
