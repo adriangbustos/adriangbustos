@@ -1,5 +1,11 @@
 # 💫 About Me:
-# 👋 ¡Hola! Soy Adrián Garrido Bustos<br><br>🎓 Soy un estudiante apasionado por la **programación**, las **matemáticas** y los **desafíos intelectuales**.<br><br>💡 Me encanta enfrentar nuevos retos que pongan a prueba mi **pensamiento lógico** y mi **creatividad tecnológica**.<br><br>🚀 Actualmente desarrollo proyectos personales y educativos con tecnologías como **JavaScript**, **TypeScript**, y **Python**, siempre con el objetivo de aprender más y crecer como desarrollador.<br>
+# 👋 ¡Hola! Soy Adrián Garrido Bustos
+
+🎓 Soy un estudiante apasionado por la **programación**, las **matemáticas** y los **desafíos intelectuales**.
+
+💡 Me encanta enfrentar nuevos retos que pongan a prueba mi **pensamiento lógico** y mi **creatividad tecnológica**.
+
+🚀 Actualmente desarrollo proyectos personales y educativos con tecnologías como **JavaScript**, **TypeScript**, y **Python**, siempre con el objetivo de aprender más y crecer como desarrollador.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adrian.garridob) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adriangbustos8@gmail.com) 
@@ -11,9 +17,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=adriangbustos&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=adriangbustos&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adriangbustos&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adriangbustos&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=adriangbustos&limit=5&theme=dark&combine_all_yearly_contributions=true)
