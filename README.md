@@ -4,7 +4,7 @@
 
 💡 I love taking on new challenges that test my **logical thinking** and **technological creativity**.
 
-🚀 Currently, I am developing personal and educational projects using technologies like **JavaScript**, **TypeScript**, and **Python**, always aiming to learn more and grow as a developer.<br>
+🚀 Currently, I am developing personal and educational projects using technologies like **Angular**, **JavaScript**, **TypeScript**, and **Python**, always aiming to learn more and grow as a developer. Expanding the frameworks I use and learning new tools.<br>
 
 ## 🌐 Social Media:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adrian.garridob) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adriangbustos8@gmail.com) 
