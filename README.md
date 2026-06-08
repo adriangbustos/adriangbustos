@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Adrián Garrido Bustos
+# 👋 Hello World! I'm Adrián
 
 🎓 I am a student passionate about **programming**, **mathematics**, and **intellectual challenges**.
 
