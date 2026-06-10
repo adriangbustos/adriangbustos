@@ -1,6 +1,6 @@
 # 👋 Hello World! I'm Adrián
 
-🎓 I am a student passionate about **programming**, **mathematics**, and **problem-solving** (As in LeetCode).
+🎓 I am a student passionate about **programming**, **mathematics**, and **problem-solving** real world issues.
 
 💡 I love taking on new challenges that test my **logical thinking** and **technological creativity**.
 
