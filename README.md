@@ -6,6 +6,9 @@
 
 🚀 Currently, I am developing personal and educational projects using technologies like **Angular**, **JavaScript**, **TypeScript**, and **Python**, always aiming to learn more and grow as a developer. Expanding the frameworks I use and learning new tools.<br>
 
+## 📂 My Projects & Repositories:
+[![View Repositories](https://img.shields.io/badge/View_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adriangbustos?tab=repositories)
+
 ## 🌐 Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriangbustos/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adriangbustos8@gmail.com)
